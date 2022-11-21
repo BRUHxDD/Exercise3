@@ -20,6 +20,10 @@ namespace Exercise_Linked_List_D
         {
             LAST = null;
         }
+        public bool Search(int rollNo, ref Node previous, ref Node current)/*Searches for the specified node*/
+        {
+            
+        }
     }
 
 
