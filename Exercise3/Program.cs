@@ -105,6 +105,12 @@ namespace Exercise_Linked_List_D
                                     Console.WriteLine("\nName: " + curr.name);
                                 }
                             }
+                            break;
+                        case '3':
+                            {
+                                obj.firstNode();
+                            }
+                            break;
                     }
                 }
             }
